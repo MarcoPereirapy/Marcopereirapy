@@ -1,12 +1,12 @@
 ### Olá, eu sou o Marcospereirapy 👋
 
 - 🔭 Procurando por estagio 
-- 📚 Estudando Pyhton e Java
+- 📚 Estudando  Java
 - 😄 Pronouns: Ele/Dele
 
 <div>
   <a href="https://github.com/Marcopereirapy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcopereirapy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcopereirapy&layout=compact&langs_count=7&theme=dark"/>
 </div> 
   
