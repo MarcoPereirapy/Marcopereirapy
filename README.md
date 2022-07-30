@@ -2,7 +2,6 @@
 
 - 🔭 Procurando por estagio 
 - 📚 Estudando  Java
-- 😄 Pronouns: Ele/Dele
 
 <div>
   <a href="https://github.com/Marcopereirapy">
