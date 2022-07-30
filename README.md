@@ -7,7 +7,6 @@
 <div>
   <a href="https://github.com/Marcopereirapy">
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcopereirapy&layout=compact&langs_count=7&theme=dark"/>
 </div> 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcopereirapy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <div style="display: inline_block"><br>
