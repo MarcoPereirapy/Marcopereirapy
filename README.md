@@ -1,7 +1,7 @@
 ### Olá, eu sou o Marcospereirapy 👋
 
 - 🔭 Procurando por estagio 
-- 📚 Estudando  Java
+- 📚 Estudando  Javascript, HTML + CSS.
 
 <div>
   <a href="https://github.com/Marcopereirapy">
